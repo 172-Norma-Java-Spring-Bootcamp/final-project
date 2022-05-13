@@ -38,7 +38,7 @@ hesaplar arası transfer yapmak isterse güncel para kuru https://api.exchangera
 alınmalı ve dönüşüm yapılıp transfer öyle gerçekleştirilemeli. Transfer işlemleri sadece IBAN üzerinden gerçekleştirilebilecek.
 
 ## Teknik beklentiler
-Yukarda belirtilen fonksiyonların tamamı Java programlama dili 8 versiyonu kullanılarak implemente edilecektir, proje genelinde
+Yukarda belirtilen tüm operasyonlar tamamı Java ve Spring Boot  kullanılarak implemente edilecektir, proje genelinde
 bootcamp boyunca öğrendiğimiz OOP prensipleri doğru şekilde uygulanmalıdır. 
 
 Tüm fonksiyonlar REST API'lar aracılığı ile yerine getirilmeli ve API'lar swagger arayüzü ile dökümantasyonu yapılmalıdır.
