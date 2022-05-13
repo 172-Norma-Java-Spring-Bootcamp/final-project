@@ -44,5 +44,5 @@ bootcamp boyunca öğrendiğimiz OOP prensipleri doğru şekilde uygulanmalıdı
 Tüm fonksiyonlar REST API'lar aracılığı ile yerine getirilmeli ve API'lar swagger arayüzü ile dökümantasyonu yapılmalıdır.
 Hata durumları uygun şekilde ele alınmalı ve hatalara uygun responselar üretilmeli.
 
-Uygulama genelinde Spring Boot, Spring MVC ve JPA kullanılmalı, clean code ve SOLID prensiplerine uyulmalı, unit testler 
+Uygulama genelinde Spring Boot, Spring Rest ve JPA kullanılmalı, clean code ve SOLID prensiplerine uyulmalı, unit testler 
 eklenmelidir.
